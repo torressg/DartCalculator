@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# DartCalculator
+
+Meu primeiro projeto em Dart.
+Para saber sobre a trajetória de como foi escrever esse código, entre em:
+https://web.dio.me/articles/calculadora-basica-com-dart
