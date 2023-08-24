@@ -1,2 +1,2 @@
-# DartCalculator
-Minha primeira aplicação com Dart. Uma calculadora via terminal.
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
