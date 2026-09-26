@@ -1,5 +1,12 @@
-# DartCalculator
+# Dart Calculator
 
-Meu primeiro projeto em Dart.
-Para saber sobre a trajetória de como foi escrever esse código, entre em:
-https://web.dio.me/articles/calculadora-basica-com-dart
+My first Dart program: a calculator that runs in the terminal.
+
+You pick an operation (addition, subtraction, division or multiplication), type two numbers and get the result. Invalid options and inputs are caught and asked again.
+
+## Running
+
+```bash
+dart pub get
+dart run
+```
